@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dommePokimonAPI/precache-manifest.3c1cc8afcd4bc6100a648058c25fd452.js"
+  "/dommePokimonAPI/precache-manifest.ef7769137554878fc6d65d2a75c9187c.js"
 );
 
 self.addEventListener('message', (event) => {
