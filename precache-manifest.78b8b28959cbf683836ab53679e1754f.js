@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38b8b9094029f8e551b41bcc9d0e279b",
+    "revision": "54d682c46079fac1af3188ee444a62f8",
     "url": "/dommePokimonAPI/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dommePokimonAPI/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "ed2508d1c52bc38fd364",
+    "revision": "8af7a01be1b808821d0c",
     "url": "/dommePokimonAPI/static/css/main.e303e48c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dommePokimonAPI/static/js/2.70ac12bd.chunk.js"
   },
   {
-    "revision": "ed2508d1c52bc38fd364",
-    "url": "/dommePokimonAPI/static/js/main.195096fb.chunk.js"
+    "revision": "8af7a01be1b808821d0c",
+    "url": "/dommePokimonAPI/static/js/main.61d22409.chunk.js"
   },
   {
     "revision": "60a9c5537eb3fe75f4c2",
