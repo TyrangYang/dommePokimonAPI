@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54d682c46079fac1af3188ee444a62f8",
+    "revision": "cc7eed3acd1e66ba755d6d9fe1df8f08",
     "url": "/dommePokimonAPI/index.html"
   },
   {
-    "revision": "aa2ae7327f8df6263348",
+    "revision": "a386303c3394bc63699e",
     "url": "/dommePokimonAPI/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "8af7a01be1b808821d0c",
+    "revision": "7fd197b5f9c505c65bef",
     "url": "/dommePokimonAPI/static/css/main.e303e48c.chunk.css"
   },
   {
-    "revision": "aa2ae7327f8df6263348",
-    "url": "/dommePokimonAPI/static/js/2.70ac12bd.chunk.js"
+    "revision": "a386303c3394bc63699e",
+    "url": "/dommePokimonAPI/static/js/2.1fe8c461.chunk.js"
   },
   {
-    "revision": "8af7a01be1b808821d0c",
-    "url": "/dommePokimonAPI/static/js/main.61d22409.chunk.js"
+    "revision": "7fd197b5f9c505c65bef",
+    "url": "/dommePokimonAPI/static/js/main.d4cc0930.chunk.js"
   },
   {
     "revision": "60a9c5537eb3fe75f4c2",
