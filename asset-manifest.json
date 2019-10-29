@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dommePokimonAPI/static/css/main.e303e48c.chunk.css",
-    "main.js": "/dommePokimonAPI/static/js/main.366c68b4.chunk.js",
-    "main.js.map": "/dommePokimonAPI/static/js/main.366c68b4.chunk.js.map",
+    "main.js": "/dommePokimonAPI/static/js/main.c6f76d9f.chunk.js",
+    "main.js.map": "/dommePokimonAPI/static/js/main.c6f76d9f.chunk.js.map",
     "runtime-main.js": "/dommePokimonAPI/static/js/runtime-main.9b50b0ef.js",
     "runtime-main.js.map": "/dommePokimonAPI/static/js/runtime-main.9b50b0ef.js.map",
     "static/css/2.0624914a.chunk.css": "/dommePokimonAPI/static/css/2.0624914a.chunk.css",
     "static/js/2.1fe8c461.chunk.js": "/dommePokimonAPI/static/js/2.1fe8c461.chunk.js",
     "static/js/2.1fe8c461.chunk.js.map": "/dommePokimonAPI/static/js/2.1fe8c461.chunk.js.map",
     "index.html": "/dommePokimonAPI/index.html",
-    "precache-manifest.c84e436ae5b562bc369a55b12bdb1fe7.js": "/dommePokimonAPI/precache-manifest.c84e436ae5b562bc369a55b12bdb1fe7.js",
+    "precache-manifest.30642576ecd4e21aaf344eb9a60f970d.js": "/dommePokimonAPI/precache-manifest.30642576ecd4e21aaf344eb9a60f970d.js",
     "service-worker.js": "/dommePokimonAPI/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/dommePokimonAPI/static/css/2.0624914a.chunk.css.map",
     "static/css/main.e303e48c.chunk.css.map": "/dommePokimonAPI/static/css/main.e303e48c.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.0624914a.chunk.css",
     "static/js/2.1fe8c461.chunk.js",
     "static/css/main.e303e48c.chunk.css",
-    "static/js/main.366c68b4.chunk.js"
+    "static/js/main.c6f76d9f.chunk.js"
   ]
 }
