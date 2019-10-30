@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddd7be840c9fdffa83268da3384640ab",
+    "revision": "82614783c0eb9bc44b5e3ee8a7ca5cbd",
     "url": "/dommePokimonAPI/index.html"
   },
   {
